@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Vivek%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
 
+<img src="assets/profile.png" width="150" height="150" style="border-radius:50%;" alt="Vivek Semwal"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer+%F0%9F%A4%96;Building+CV+Analyzer+%26+Currency+Converter+%E2%9A%A1;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
